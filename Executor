@@ -1,0 +1,12 @@
+$nomention
+$title[**Roblox Executors**]
+$description[__Dont worry if being outdated, i will update to new link executor when executor update__
+
+<:discord:1277540352030675021> [Discord\](https://discord.gg/ffq5SPvCjc)]
+$newSelectMenu[Executor1;1;1;Choose your roblox executor]
+$thumbnail[https://media.discordapp.net/attachments/1271671406559629383/1277642424390520832/0c215277a5b9286286656f65318057f8.jpg?ex=66cde8bb&is=66cc973b&hm=0e7ceeba60d0a7ee4d2f926bce61c5abd42a3451541e242a59a57f74f30f92c6&]
+$addSelectMenuOption[Executor1;Delta;Delta1;Download Latest Delta Executor!;;]
+$addSelectMenuOption[Executor1;Fluxus;Fluxus2;Download Latest Fluxus Executor!;;]
+$addSelectMenuOption[Executor1;Codex;Codex3;Download Latest Codex Executor!;;]
+$addSelectMenuOption[Executor1;Arceus X;Arceus4;Download Latest Arceus X Executor!;;]
+$color[#81baef]
